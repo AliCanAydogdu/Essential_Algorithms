@@ -1,5 +1,4 @@
-# 
-# Author: Enes Kemal Ergin
+
 
 """
 Find positive integer solutions to the equation x^2 - 2y^2 = 1
