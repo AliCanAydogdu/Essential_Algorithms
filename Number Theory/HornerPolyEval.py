@@ -1,6 +1,6 @@
 ## Horner's Rule of Polynomial Evaluation
-# Enes Kemal Ergin
-# 03/26/15
+
+
 
 """ 
 coefficients := [-19, 7, -4, 6] # list coefficients of all x^0..x^n in order
