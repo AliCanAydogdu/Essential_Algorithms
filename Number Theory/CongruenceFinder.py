@@ -1,5 +1,5 @@
 # Brute-force congruence Finder
-# Author: Enes Kemal Ergin
+
 """
 ax = b(mod -mod-)
 	a is a integer constant
