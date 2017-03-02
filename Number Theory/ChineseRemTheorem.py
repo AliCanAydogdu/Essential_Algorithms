@@ -1,6 +1,5 @@
 # Chinese Remainder Theorem Implementation
-# Enes Kemal Ergin
-# 03/22/15
+
 
 def mul_inv(a, b):
     b0 = b
