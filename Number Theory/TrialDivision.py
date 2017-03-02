@@ -1,5 +1,5 @@
 # Trial Division
-# Author: Enes Kemal Ergin
+
 
 """
 Factorizations slowest to fastest
